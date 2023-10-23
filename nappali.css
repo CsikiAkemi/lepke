@@ -1,0 +1,45 @@
+body{
+    background-color: #2f4f4f;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+table{
+    width: 640px;
+    margin: 0 auto;
+    background-image: url(hatter.jpg);
+    
+}
+
+.feherlepke{
+    border: 1px solid black;
+    float: left;
+    margin-left: 15px;
+}
+
+.keklepke{
+    border: 1px solid black;
+    float: right;
+    margin-right: 15px;
+}
+
+.jobb{
+ 
+   margin-right: 15px;
+    text-align: justify;
+    font-size: 20px;
+    
+}
+.bal{
+   
+    text-align: justify;
+    margin-left: 15px;
+    font-size: 20px;
+}
+.gif{
+    display: inline;
+    margin-left: 15px;
+}
